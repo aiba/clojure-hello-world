@@ -6,4 +6,6 @@
 
 # Running
 
-`clojure -Mrepl`
+* `clojure -Mrepl`
+* Open `src/hello/core.clj` in Emacs.
+* In Emacs, run `M-x cider-connect` and follow the prompts to connect to the localhost repl.
